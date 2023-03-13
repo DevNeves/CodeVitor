@@ -3,7 +3,7 @@
 
 
 - 🔭 Estudante de Programação Web.
-- 🌱 Estou cursando o curso do Programador Br
+- 🌱 Estou cursando o curso do CJRM
 - 👯 Estudo HTML , CSS e Javascript
 - 🤔 Pretendo em um Futuro bem próximo trabalhar com Programação (:
 <br><br>
